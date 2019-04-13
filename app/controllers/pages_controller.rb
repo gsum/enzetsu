@@ -7,4 +7,7 @@ class PagesController < ApplicationController
 
   def progress
   end
+
+  def research
+  end
 end
