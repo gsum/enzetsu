@@ -10,4 +10,7 @@ class PagesController < ApplicationController
 
   def research
   end
+
+  def link
+  end
 end
